@@ -12,7 +12,7 @@ Here is the _[Live Project Link]( https://app.powerbi.com/view?r=eyJrIjoiYjllZjA
 - DAX language
 - DAX studio (for optimizing the report)
 
-## PowerBI techniques Learnt
+## PowerBI techniques Learnt:
 - Gathered business requirements and identified key stakeholder questions before project initiation
 - Built end-to-end Power BI solutions from data modeling to report delivery
 - Created calculated columns and DAX measures for business logic and KPIs
@@ -27,4 +27,23 @@ Here is the _[Live Project Link]( https://app.powerbi.com/view?r=eyJrIjoiYjllZjA
 - Performed data validation to ensure data accuracy and reliability
 - Published reports to Power BI Service
 
-
+## Business related terms:
+- Gross Sales
+- Pre-invoice deductions
+- Net Invoice sales
+- Post-Invoice deductions
+- Net sales
+- Cost of goods sold (COGS)
+- Gross Margin
+- Net profit
+- YTD - Year to Date
+- YTG - Year to Go
+- Net Error
+- Absolute Error
+- Forecast Accuracy
+- Excess Inventory
+- Out of Stock
+- Direct
+- Retailer
+- Distributors
+- Consumer
