@@ -3,7 +3,7 @@
 ## Project Overview
 AtliQ Hardware has been experiencing rapid growth and decided to adopt data analytics using Power BI for the first time to gain a competitive edge and enable data-driven decision-making. This project was designed to address key stakeholder questions across Finance, Sales, Marketing, Supply Chain, and Executive functions by providing unified and actionable insights.
 
-Here is the _[Live Project Link]( https://app.powerbi.com/view?r=eyJrIjoiYjllZjA4MmMtYmMzMy00MTc5LWE2YTQtNGRhMDkwOTBmN2ZkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_ 
+Here is the _[Live Project Link](https://app.powerbi.com/view?r=eyJrIjoiODFiZDIzNDAtMDIxZS00YjBkLWE2OTktNjUzZjg0YWZlNmIyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_ 
 
 ## Problem Statement
 AltiQ hardware is a consumer goods electronics company which has grown vastly in the recent years, and opened business all over the globe. It is a company which sells, computer and computer accessories like PC, mouse, keyboard, printers etc which has 2 types of customers
@@ -76,6 +76,24 @@ Senior executives of this company have decided to invest in a data analytics pro
 - What are all the resources/ data needed to build this dashboard?
 - Who can view, edit, or share the dashboard?
 - Is there any inputs from stakeholders in terms of design and views of the dashboard?
+
 After the project kick off meetings, the data engineering team has given the data as per the request of data analytics team, let’s explore them.
+
+## Homepage
+In Homepage, all the navigations to respective pages will be available. User will land on specific view page by clicking the View Insights button for Main views and info and support icon for Information and Support Page
+
+- Finance View
+- Sales View
+- Marketing View
+- Supply chain View
+- Executive View
+- Support
+- Info
+
+
+
+
+
+https://github.com/user-attachments/assets/584fbab3-e20d-473b-a907-df906778d996
 
 
