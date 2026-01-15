@@ -79,6 +79,9 @@ Senior executives of this company have decided to invest in a data analytics pro
 
 After the project kick off meetings, the data engineering team has given the data as per the request of data analytics team, let’s explore them.
 
+## Dashboard designing
+Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required
+
 ## Homepage
 In Homepage, all the navigations to respective pages will be available. User will land on specific view page by clicking the View Insights button for Main views and info and support icon for Information and Support Page
 
@@ -95,5 +98,11 @@ In Homepage, all the navigations to respective pages will be available. User wil
 
 
 https://github.com/user-attachments/assets/584fbab3-e20d-473b-a907-df906778d996
+
+## Finance View
+
+
+
+https://github.com/user-attachments/assets/e78b6e3f-62d7-4ef4-9047-eeb56e243398
 
 
