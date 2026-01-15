@@ -5,6 +5,19 @@ AtliQ Hardware has been experiencing rapid growth and decided to adopt data anal
 
 Here is the _[Live Project Link]( https://app.powerbi.com/view?r=eyJrIjoiYjllZjA4MmMtYmMzMy00MTc5LWE2YTQtNGRhMDkwOTBmN2ZkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_ 
 
+## Problem Statement
+AltiQ hardware is a consumer goods electronics company which has grown vastly in the recent years, and opened business all over the globe. It is a company which sells, computer and computer accessories like PC, mouse, keyboard, printers etc which has 2 types of customers
+- Brick amd Mortar
+- E-Commere sites
+and has 3 channels:
+- Retailers
+- Direct
+- Distributors
+
+Their business is growing rapidly and they still rely on excel files for data analytics. Excel files are hard to consume and not effective in generating insights. Also due to the lack of effective analytics the company faced a major loss in Latin America.
+
+Senior executives of this company have decided to invest in a data analytics project and have assigned a team for this work.
+
 ## Tech Stacks:
 - Power Bi Desktop
 - SQL
@@ -47,3 +60,22 @@ Here is the _[Live Project Link]( https://app.powerbi.com/view?r=eyJrIjoiYjllZjA
 - Retailer
 - Distributors
 - Consumer
+
+## Questions to ask before starting the dashboard
+- What is the objective of building this PowerBi dashboard?
+- What business problem are we trying to solve?
+- Who are the primary users (management, analysts, ops team)?
+- In what terms the success of this project will be measured?
+- What will be time dead-line of the project?
+- Who is the main stakeholder / owner of the dashboard?
+- What are all the hopes stakeholders have out of this project?
+- What are all expectation the stakeholders have, by the completion of this project?
+- What are the key KPIs that must be tracked?
+- Should we use a star/snowflake schema?
+- What can go wrong while building this project?
+- What are all the resources/ data needed to build this dashboard?
+- Who can view, edit, or share the dashboard?
+- Is there any inputs from stakeholders in terms of design and views of the dashboard?
+After the project kick off meetings, the data engineering team has given the data as per the request of data analytics team, let’s explore them.
+
+
