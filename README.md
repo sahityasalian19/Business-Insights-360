@@ -79,6 +79,18 @@ Senior executives of this company have decided to invest in a data analytics pro
 
 After the project kick off meetings, the data engineering team has given the data as per the request of data analytics team, let’s explore them.
 
+## Importing data into PowerBi
+As the database is MySQL in this project, we need to import the datasets from Mysql database to PowerBi by providing the Database access credential
+
+## Data Model
+- Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model.
+- Poor data modeling affects the over all performance of the report.
+- Following Good practices of data modeling is must.
+- In this project, we have followed Snowflake data modeling method.
+
+<img width="1454" height="798" alt="ss2" src="https://github.com/user-attachments/assets/f4673e60-12dc-48aa-b4b5-e32969b82388" />
+
+
 ## Dashboard designing
 Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required
 
@@ -129,6 +141,10 @@ https://github.com/user-attachments/assets/470e6456-0b8f-4be5-9a7f-88c0f28926e2
 
 
 https://github.com/user-attachments/assets/9c0afeb4-f455-44f8-857f-c1dabace4ccf
+
+## Project Outcome
+By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
+
 
 
 
