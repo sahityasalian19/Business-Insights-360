@@ -3,7 +3,7 @@
 ## Project Overview
 AtliQ Hardware has been experiencing rapid growth and decided to adopt data analytics using Power BI for the first time to gain a competitive edge and enable data-driven decision-making. This project was designed to address key stakeholder questions across Finance, Sales, Marketing, Supply Chain, and Executive functions by providing unified and actionable insights.
 
-Here is the _[Live Project Link](https://app.powerbi.com/view?r=eyJrIjoiODFiZDIzNDAtMDIxZS00YjBkLWE2OTktNjUzZjg0YWZlNmIyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_ 
+Here is the _[Live Project Link](https://app.powerbi.com/view?r=eyJrIjoiNGYxMWQyM2EtM2YwMS00YzA2LWExOTYtYzgyNTI4MGUxMGUyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_ 
 
 ## Problem Statement
 AltiQ hardware is a consumer goods electronics company which has grown vastly in the recent years, and opened business all over the globe. It is a company which sells, computer and computer accessories like PC, mouse, keyboard, printers etc which has 2 types of customers
@@ -104,5 +104,40 @@ https://github.com/user-attachments/assets/584fbab3-e20d-473b-a907-df906778d996
 
 
 https://github.com/user-attachments/assets/e78b6e3f-62d7-4ef4-9047-eeb56e243398
+
+## Sales View
+
+
+https://github.com/user-attachments/assets/9c9bddd0-ddb5-4a21-bbc9-fab180b44a37
+
+## Marketing View
+
+
+https://github.com/user-attachments/assets/392ef592-2a67-460d-864f-39ef353945a3
+
+## Supply Chain View
+
+
+https://github.com/user-attachments/assets/c089df7e-d07f-47bf-be3b-b1bfba0b5ea1
+
+## Executive View
+
+
+https://github.com/user-attachments/assets/470e6456-0b8f-4be5-9a7f-88c0f28926e2
+
+## Info and Support page
+
+
+https://github.com/user-attachments/assets/9c0afeb4-f455-44f8-857f-c1dabace4ccf
+
+
+
+
+
+
+
+
+
+
 
 
