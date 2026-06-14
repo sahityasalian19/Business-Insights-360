@@ -8,7 +8,7 @@ Here is the _[Live Project Link](https://app.powerbi.com/view?r=eyJrIjoiNGYxMWQy
 ## Problem Statement
 AltiQ hardware is a consumer goods electronics company which has grown vastly in the recent years, and opened business all over the globe. It is a company which sells, computer and computer accessories like PC, mouse, keyboard, printers etc which has 2 types of customers
 - Brick amd Mortar
-- E-Commere sites
+- E-Commerce sites
 and has 3 channels:
 - Retailers
 - Direct
